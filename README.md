@@ -80,6 +80,6 @@ Equipo de desarrollo (Samsung–UDEM)
 •	Castelan Rosas Enrique Andrés
 •	Clemente Morales Angel Agustín
 •	Polo Castelan Jonas Alaim
-•	Rodriguez Hernandez Francisco Abraham
+•	Rodriguez Hernandez Francisco Abraham 
 ________________________________________
 
