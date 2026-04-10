@@ -6,7 +6,7 @@ Este repositorio contiene el código necesario para analizar datos de consumo el
 •	Clasificación, para identificar el estado de carga de la planta.
 •	Agrupamiento, para descubrir patrones diarios de operación.
 El objetivo no es únicamente generar predicciones, sino ayudarte a detectar anomalías operativas, interpretar el comportamiento energético del sistema y explorar patrones recurrentes en los datos.
-Este proyecto fue desarrollado en el marco del programa Samsung Innovation Campus.
+Este proyecto fue desarrollado en el marco del programa Samsung Innovation Campus. 
 ________________________________________
 ¿Qué hace el pipeline?
 A partir de registros eléctricos tomados cada 15 minutos, el sistema permite:
